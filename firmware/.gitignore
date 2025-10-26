@@ -1,0 +1,16 @@
+# EWARM/CubeIDE toolchain:
+*/Debug
+*/Release
+.metadata
+*/*.launch
+
+# CMake/VSCode toolchain:
+*/build
+*/build.ninja
+*/CMakeFiles
+*/cmake_install.cmake
+*/cmake/stm32cubemx/CMakeFiles
+*/cmake/stm32cubemx/cmake_install.cmake
+*/CMaakeCache.txt
+*/compile_commands.json
+*/.vscode
